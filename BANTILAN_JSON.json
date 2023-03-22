@@ -1,16 +1,16 @@
 {
-  "firstArray" : 
-    [
-        {"name" : "Mark Jude C Bantilan"},
-        {"age" : 24},
-        {"qoute" :"my gjsgadkasd"}
-    ],
-
-  "secondArray" : 
-    [
-      {"classSection" :"BSIT 3B"},
-      {"section" : "T123"},
-      {"institutionalEmail" :"1901102129@student.buksu.edu.ph"}
-    ]
-  
+  "array1": [
+    {
+      "FULL_NAME": "Mark Jude C. Bantilan",
+      "AGE": 24,
+      "YOUR_QUOTES": ["Be yourself; everyone else is already taken.", "In three words I can sum up everything I've learned about life: it goes on."]
+    }
+  ],
+  "array2": [
+    {
+      "CLASS SECTION": "BSIT 3B",
+      "SECTION CODE": "T230",
+      "BUKSU EMAIL": "1901102129@student.buksu.edu.ph"
+    }
+  ]
 }
